@@ -9,7 +9,8 @@ Estoy en transición hacia el desarrollo web y el análisis de datos.
 - Google Data Analytics Certificate y Google Project Management Certificate
 
 ## Tecnologías
-Python · SQL · Tkinter · SQLite · HTML · CSS
+Python · SQL · pandas · matplotlib · seaborn · Jupyter · Tkinter · SQLite · HTML · CSS
 
 ## Proyectos
 - [Interfaces gráficas con Python](https://github.com/rochabernardo393-sys/interfaces-graficas-python)
+- [Titanic: factores asociados a la supervivencia](https://github.com/rochabernardo393-sys/titanic-analisis)
