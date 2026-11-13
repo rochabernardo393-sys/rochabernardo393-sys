@@ -14,3 +14,4 @@ Python · SQL · pandas · matplotlib · seaborn · Jupyter · Tkinter · SQLite
 ## Proyectos
 - [Interfaces gráficas con Python](https://github.com/rochabernardo393-sys/interfaces-graficas-python)
 - [Titanic: factores asociados a la supervivencia](https://github.com/rochabernardo393-sys/titanic-analisis)
+- [Tienda de discos: base de datos y consultas SQL](https://github.com/rochabernardo393-sys/tienda-discos-sql)
